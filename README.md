@@ -1,5 +1,7 @@
 # 🎓 Developer Portfolio: Gateway
 
+<img src="https://github.com/TJoubert004.png" alt="Profile Picture" width="200" />
+
 Welcome to my GitHub portfolio repository! I am currently a student at **Wayne State College** pursuing my degree in Networking and CyberSecurity wiht a minor in Computer Science. This gateway serves as a central directory to navigate my coursework, showcasing my development across enterprise computing and mainframe systems.
 
 ---
