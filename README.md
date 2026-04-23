@@ -14,6 +14,7 @@ Welcome to my GitHub portfolio repository! I am currently a student at **Wayne S
 | [CobolAssignment4](#cobol-assignment-4) | Hierarchical Reporting with Control Breaks | COBOL/JCL | Intro to Enterprise Computing | [RPT3000](https://github.com/TJoubert004/CobolAssignment4) |
 | [CobolAssignment5](#cobol-assignment-5) | Multi-Level SalesRep and Branch Totals | COBOL/JCL | Intro to Enterprise Computing | [RPT5000](https://github.com/TJoubert004/CobolAssignment5) |
 | [CobolAssignment6](#cobol-assignment-6) | Advanced Reporting with Table Lookups | COBOL/JCL | Intro to Enterprise Computing | [RPT6000](https://github.com/TJoubert004/CobolAssignment6) |
+| [CobolAssignment7](#cobol-assignment-7) | ... | COBOL/JCL | Intro to Enterprise Computing | [SEQ3000](https://github.com/TJoubert004/CobolAssignment7) |
 
 ---
 
