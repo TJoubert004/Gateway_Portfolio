@@ -118,9 +118,11 @@ Welcome to my GitHub portfolio repository! I am currently a student at **Wayne S
 * **Key Learning Concepts:** Random access master file maintenance (Add, Change, Delete), ORGANIZATION IS INDEXED file structures, and I-O Open modes for direct cluster updates.
 * **Project Status:** ✅ Completed
 * **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
-* **Thumbnail Screenshot:** 
-
+* **Thumbnail Screenshot:** SEQ3000
+  
   ![Assignment 7](Assets/SEQ3000_Output.png)
+* **Thumbnail Screenshot:** EMPIND02
+  
   ![Assignment 7](Assets/EMPIND02_Output.png)
 * **Repository Link:** 🔗 [View CobolAssignment7](https://github.com/TJoubert004/CobolAssignment7)
 
