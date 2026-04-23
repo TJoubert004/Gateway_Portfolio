@@ -16,7 +16,7 @@ Welcome to my GitHub portfolio repository! I am currently a student at **Wayne S
 | [CobolAssignment4](#cobol-assignment-4) | Hierarchical Reporting with Control Breaks | COBOL/JCL | Intro to Enterprise Computing | [RPT3000](https://github.com/TJoubert004/CobolAssignment4) |
 | [CobolAssignment5](#cobol-assignment-5) | Multi-Level SalesRep and Branch Totals | COBOL/JCL | Intro to Enterprise Computing | [RPT5000](https://github.com/TJoubert004/CobolAssignment5) |
 | [CobolAssignment6](#cobol-assignment-6) | Advanced Reporting with Table Lookups | COBOL/JCL | Intro to Enterprise Computing | [RPT6000](https://github.com/TJoubert004/CobolAssignment6) |
-| [CobolAssignment7](#cobol-assignment-7) | ... | COBOL/JCL | Intro to Enterprise Computing | [SEQ3000](https://github.com/TJoubert004/CobolAssignment7) |
+| [CobolAssignment7](#cobol-assignment-7) | VSAM KSDS Management & Random Access | COBOL/JCL/VSAM | Intro to Enterprise Computing | [SEQ3000+EMPIND02](https://github.com/TJoubert004/CobolAssignment7) |
 
 ---
 
@@ -113,3 +113,11 @@ Welcome to my GitHub portfolio repository! I am currently a student at **Wayne S
 ---
 
 ### Cobol Assignment 7
+* **Short Summary:** A comprehensive suite of programs for managing employee records using both sequential validation (SEQ3000) and indexed VSAM maintenance (EMPIND01/02).
+* **Technologies Used:** COBOL, JCL, VSAM KSDS, IDCAMS.
+* **Key Learning Concepts:** Random access master file maintenance (Add, Change, Delete), ORGANIZATION IS INDEXED file structures, and I-O Open modes for direct cluster updates.
+* **Project Status:** ✅ Completed
+* **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
+* **Repository Link:** 🔗 [View CobolAssignment7](https://github.com/TJoubert004/CobolAssignment7)
+
+[⬆ Back to TOC](#table-of-contents)
